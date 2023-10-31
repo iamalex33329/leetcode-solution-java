@@ -1,5 +1,3 @@
-import java.util.*;
-
 /**
  *  15. 3Sum
  *
@@ -10,6 +8,8 @@ import java.util.*;
  *  Notice that the solution set must not contain duplicate triplets.
  *
  */
+
+import java.util.*;
 
 public class Problem15 {
 
