@@ -1,3 +1,5 @@
+import datastructure.TreeNode;
+
 /**
  *  100. Same Tree
  *

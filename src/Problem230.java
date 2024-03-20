@@ -1,6 +1,7 @@
+import datastructure.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Stack;
 
 /**
  *  230. Kth Smallest Element in a BST

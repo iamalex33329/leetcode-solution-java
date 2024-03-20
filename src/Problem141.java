@@ -14,6 +14,8 @@
  *
  */
 
+import datastructure.ListNode;
+
 import java.util.HashSet;
 
 public class Problem141 {

@@ -1,3 +1,5 @@
+import datastructure.TreeNode;
+
 /**
  *  226. Invert Binary Tree
  *
