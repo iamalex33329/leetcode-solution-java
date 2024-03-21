@@ -1,5 +1,3 @@
-import datastructure.ListNode;
-
 /**
  *  206. Reverse Linked List
  *
@@ -8,6 +6,8 @@ import datastructure.ListNode;
  *
  */
 
+import datastructure.ListNode;
+
 public class Problem206 {
 
     public ListNode reverseList(ListNode head) {
@@ -15,10 +15,10 @@ public class Problem206 {
 
         while (head != null) {
             ListNode tmp = new ListNode(head.val, null);
-            head = head.next;
-
             tmp.next = newHead;
             newHead = tmp;
+
+            head = head.next;
         }
         return newHead;
     }
