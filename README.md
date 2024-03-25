@@ -4,7 +4,7 @@ This repository contains my solutions to [LeetCode problems](https://leetcode.co
 
 ## Problems Solved
 
-Total solved problems: 103
+Total solved problems: 106
 
 ### Easy Problems (46)
 
