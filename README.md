@@ -55,7 +55,7 @@ Total solved problems: 103
 - [Problem1768](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1768.java)
 - [Problem2828](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem2828.java)
 
-### Medium Problems (54)
+### Medium Problems (56)
 
 - [Problem2](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem2.java)
 - [Problem3](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem3.java)
@@ -87,9 +87,11 @@ Total solved problems: 103
 - [Problem151](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem151.java)
 - [Problem153](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem153.java)
 - [Problem167](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem167.java)
+- [Problem198](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem198.java)
 - [Problem199](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem199.java)
 - [Problem200](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem200.java)
 - [Problem204](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem204.java)
+- [Problem213](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem213.java)
 - [Problem230](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem230.java)
 - [Problem235](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem235.java)
 - [Problem238](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem238.java)
@@ -112,10 +114,11 @@ Total solved problems: 103
 - [Problem2433](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem2433.java)
 - [Problem2829](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem2829.java)
 
-### Hard Problems (3)
+### Hard Problems (4)
 
 - [Problem23](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem23.java)
 - [Problem42](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem42.java)
 - [Problem76](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem76.java)
+- [Problem297](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem297.java)
 
 Updated on: Mar 22, 2024
