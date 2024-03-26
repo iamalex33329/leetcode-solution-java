@@ -1,5 +1,3 @@
-import datastructure.ListNode;
-
 /**
  *  21. Merge Two Sorted Lists
  *
@@ -13,6 +11,8 @@ import datastructure.ListNode;
  *  Return the head of the merged linked list.
  *
  */
+
+import datastructure.ListNode;
 
 public class Problem21 {
 

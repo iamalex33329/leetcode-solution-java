@@ -28,7 +28,6 @@ public class Problem297 {
     public String serialize(TreeNode root) {
         StringBuilder sb = new StringBuilder();
         serializeHelper(root, sb);
-        System.out.println(sb);
         return sb.toString();
     }
 
