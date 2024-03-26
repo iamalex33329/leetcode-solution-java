@@ -8,10 +8,10 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 
 | Difficulty | Solved Problems |
 |:----------:|:---------------:|
-|    Easy    |       53        |
+|    Easy    |       54        |
 |   Medium   |       62        |
 |    Hard    |        4        |
-| **Total**  |     **119**     |
+| **Total**  |     **120**     |
 
 Updated on: `Mar 26, 2024`
 
@@ -63,6 +63,7 @@ Updated on: `Mar 26, 2024`
 - [Problem941](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem941.java)
 - [Problem1672](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1672.java)
 - [Problem1137](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1137.java)
+- [Problem1189](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1189.java)
 - [Problem1299](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1299.java)
 - [Problem1470](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1470.java)
 - [Problem1646](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1646.java)
