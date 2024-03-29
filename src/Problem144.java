@@ -1,8 +1,3 @@
-import datastructure.TreeNode;
-
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  *  144. Binary Tree Preorder Traversal
  *
@@ -11,6 +6,11 @@ import java.util.List;
  *
  */
 
+import datastructure.TreeNode;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Problem144 {
 
     List<Integer> list = new ArrayList<>();
@@ -18,7 +18,6 @@ public class Problem144 {
     public List<Integer> preorderTraversal(TreeNode root) {
         if (root != null) {
             list.add(root.val);
-
             preorderTraversal(root.left);
             preorderTraversal(root.right);
         }

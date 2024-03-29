@@ -1,8 +1,3 @@
-import datastructure.TreeNode;
-
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  *  145. Binary Tree Postorder Traversal
  *
@@ -10,6 +5,11 @@ import java.util.List;
  *  traversal of its nodes' values.
  *
  */
+
+import datastructure.TreeNode;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class Problem145 {
 
