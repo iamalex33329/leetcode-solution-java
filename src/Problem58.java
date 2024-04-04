@@ -10,33 +10,22 @@
 
 public class Problem58 {
 
-    public static void main(String[] args) {
-        System.out.println(lengthOfLastWord1("a"));
-    }
-
     public static int lengthOfLastWord(String s) {
-        s = s.toLowerCase();
-        int length = 0;
-
-        for (int i=s.length()-1; i>=0; i--) {
-            if ('a' <= s.charAt(i) && s.charAt(i) <= 'z') {
-                length++;
-            } else {
-                if (length != 0) return length;
-            }
-        }
-        return 0;
+        String[] ss = s.strip().split(" ");
+        return ss[ss.length-1].length();
     }
 
     public static int lengthOfLastWord1(String s) {
-        int index = s.length()-1, length = 0;
+        for (int i=s.length()-1; i>=0; i--) {
+            // 跳過直到字元不是空格
+            if(s.charAt(i) == ' ') continue;
 
-        while (s.charAt(index) == ' ') { index--; }
-
-        while (s.charAt(index) != ' ') {
-            length++;
-            index--;
+            // 開始數最後一個單字的長度
+            int j = i;
+            while (j >= 0 && s.charAt(j) != ' ') j--;
+            return i - j;
         }
-        return length;
+
+        return 0;
     }
 }
