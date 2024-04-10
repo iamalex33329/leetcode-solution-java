@@ -14,7 +14,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class Problem989 {
     public List<Integer> addToArrayForm(int[] num, int k) {
         List<Integer> numList = new ArrayList<>();
         for (int digit : num) numList.add(digit);

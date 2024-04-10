@@ -8,10 +8,10 @@ Updated on: `Apr 07, 2024`
 
 | Difficulty | Solved Problems |
 |:----------:|:---------------:|
-|    Easy    |       63        |
+|    Easy    |       65        |
 |   Medium   |       69        |
 |    Hard    |        6        |
-| **Total**  |     **138**     |
+| **Total**  |     **140**     |
 
 ### Easy Problems
 
@@ -64,6 +64,7 @@ Updated on: `Apr 07, 2024`
 - [Problem929](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem929.java)
 - [Problem941](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem941.java)
 - [Problem989](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem989.java)
+- [Problem1089](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1089.java)
 - [Problem1672](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1672.java)
 - [Problem1137](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1137.java)
 - [Problem1189](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1189.java)
@@ -77,6 +78,7 @@ Updated on: `Apr 07, 2024`
 - [Problem1768](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1768.java)
 - [Problem1822](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1822.java)
 - [Problem1929](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1929.java)
+- [Problem2073](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem2073.java)
 - [Problem2828](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem2828.java)
 
 ### Medium Problems
