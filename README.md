@@ -9,9 +9,9 @@ Updated on: `Apr 07, 2024`
 | Difficulty | Solved Problems |
 |:----------:|:---------------:|
 |    Easy    |       65        |
-|   Medium   |       69        |
+|   Medium   |       70        |
 |    Hard    |        6        |
-| **Total**  |     **140**     |
+| **Total**  |     **141**     |
 
 ### Easy Problems
 
@@ -132,6 +132,7 @@ Updated on: `Apr 07, 2024`
 - [Problem424](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem424.java)
 - [Problem442](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem442.java)
 - [Problem477](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem477.java)
+- [Problem623](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem623.java)
 - [Problem665](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem665.java)
 - [Problem739](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem739.java)
 - [Problem838](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem838.java)
