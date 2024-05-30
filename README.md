@@ -2,21 +2,22 @@
 
 This repository contains my solutions to [LeetCode](https://leetcode.com/) problems.
 
-Updated on: `Apr 24, 2024`
+Updated on: `May 30, 2024`
 
 ## Problems Solved
 
 | Difficulty | Solved Problems |
 |:----------:|:---------------:|
-|    Easy    |       65        |
+|    Easy    |       68        |
 |   Medium   |       72        |
 |    Hard    |        6        |
-| **Total**  |     **143**     |
+| **Total**  |     **146**     |
 
 ### Easy Problems
 
 - [Problem1](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem1.java)
 - [Problem9](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem9.java)
+- [Problem14](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem14.java)
 - [Problem20](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem20.java)
 - [Problem21](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem21.java)
 - [Problem26](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem26.java)
@@ -31,6 +32,8 @@ Updated on: `Apr 24, 2024`
 - [Problem94](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem94.java)
 - [Problem100](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem100.java)
 - [Problem104](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem104.java)
+- [Problem110](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem110.java)
+- [Problem112](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem112.java)
 - [Problem118](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem118.java)
 - [Problem121](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem121.java)
 - [Problem125](https://github.com/iamalex33329/leetcode-solution-java/blob/main/src/Problem125.java)
